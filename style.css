@@ -1,0 +1,12 @@
+.bodybackground {
+background-image: url(foto.png);
+background-position:center;
+background-size:cover;
+}
+
+#myCanvas {
+    background-color:white;
+    border-width:10px;
+    border-style:groove;
+    border-color:rgb(34, 16, 16);
+}
